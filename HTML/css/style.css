@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+    align-items: center;
+}
+
+h1{
+    color: black;
+    font-family: sans-serif;
+}
+
+h2{
+    
+}
+
+body{
+    background-color:rgb(232, 192, 141)
+}
+
+.foto1{
+    max-height: 33%;
+    max-width: 33%;
+}
+
+.titulo{
+    max-width: 33%;
+    max-height: 33%;
+}
+
+.foto-titulo{
+    max-height: 20%;
+    max-width: 20%;
+}
